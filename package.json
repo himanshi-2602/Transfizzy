@@ -1,0 +1,27 @@
+{
+  "name": "transfizzy",
+  "version": "1.0.0",
+  "description": "File Transfer through WebRTC",
+  "main": "index.js",
+  "engines": {
+    "node": "14.x"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/himanshi-2602/Transfizzy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/himanshi-2602/Transfizzy/issues"
+  },
+  "homepage": "https://github.com/himanshi-2602/Transfizzy#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "socket.io": "^4.4.1"
+  }
+}
